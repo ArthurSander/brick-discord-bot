@@ -1,0 +1,27 @@
+{
+    "name": "cleberbot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "dist/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@discordjs/opus": "github:discordjs/opus",
+        "@types/node": "^14.17.6",
+        "discord.js": "^12.3.1",
+        "dotenv": "^8.2.0",
+        "ffmpeg": "0.0.4",
+        "fluent-ffmpeg": "^2.1.2",
+        "inversify": "^5.0.1",
+        "node": "^14.17.3",
+        "node-opus": "^0.3.3",
+        "opusscript": "0.0.7",
+        "reflect-metadata": "^0.1.13",
+        "simpleloggerts": "0.0.6",
+        "typescript": "^4.3.5",
+        "ytdl-core": "^4.9.0"
+    }
+}
