@@ -1,1 +1,1 @@
-# torto-bot
+# brick-discord-bot
